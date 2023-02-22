@@ -1,0 +1,1066 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+{
+            "type": "Feature",
+            "properties": {
+                "scalerank": 1,
+                "featurecla": "Admin-0 country",
+                "LABELRANK": 5,
+                "SOVEREIGNT": "Honduras",
+                "SOV_A3": "HND",
+                "ADM0_DIF": 0,
+                "LEVEL": 2,
+                "TYPE": "Sovereign country",
+                "ADMIN": "Honduras",
+                "ADM0_A3": "HND",
+                "GEOU_DIF": 0,
+                "GEOUNIT": "Honduras",
+                "GU_A3": "HND",
+                "SU_DIF": 0,
+                "SUBUNIT": "Honduras",
+                "SU_A3": "HND",
+                "BRK_DIFF": 0,
+                "NAME": "Honduras",
+                "NAME_LONG": "Honduras",
+                "BRK_A3": "HND",
+                "BRK_NAME": "Honduras",
+                "BRK_GROUP": null,
+                "ABBREV": "Hond.",
+                "POSTAL": "HN",
+                "FORMAL_EN": "Republic of Honduras",
+                "FORMAL_FR": null,
+                "NAME_CIAWF": "Honduras",
+                "NOTE_ADM0": null,
+                "NOTE_BRK": null,
+                "NAME_SORT": "Honduras",
+                "NAME_ALT": null,
+                "MAPCOLOR7": 2,
+                "MAPCOLOR8": 5,
+                "MAPCOLOR9": 2,
+                "MAPCOLOR13": 5,
+                "POP_EST": 9038741,
+                "POP_RANK": 13,
+                "GDP_MD_EST": 43190,
+                "POP_YEAR": 2017,
+                "LASTCENSUS": 2001,
+                "GDP_YEAR": 2016,
+                "ECONOMY": "6. Developing region",
+                "INCOME_GRP": "4. Lower middle income",
+                "WIKIPEDIA": -99,
+                "FIPS_10_": "HO",
+                "ISO_A2": "HN",
+                "ISO_A3": "HND",
+                "ISO_A3_EH": "HND",
+                "ISO_N3": "340",
+                "UN_A3": "340",
+                "WB_A2": "HN",
+                "WB_A3": "HND",
+                "WOE_ID": 23424841,
+                "WOE_ID_EH": 23424841,
+                "WOE_NOTE": "Exact WOE match as country",
+                "ADM0_A3_IS": "HND",
+                "ADM0_A3_US": "HND",
+                "ADM0_A3_UN": -99,
+                "ADM0_A3_WB": -99,
+                "CONTINENT": "North America",
+                "REGION_UN": "Americas",
+                "SUBREGION": "Central America",
+                "REGION_WB": "Latin America & Caribbean",
+                "NAME_LEN": 8,
+                "LONG_LEN": 8,
+                "ABBREV_LEN": 5,
+                "TINY": -99,
+                "HOMEPART": 1,
+                "MIN_ZOOM": 0,
+                "MIN_LABEL": 4.5,
+                "MAX_LABEL": 9.5
+            },
+            "bbox": [
+                -89.353326,
+                12.984686,
+                -83.147219,
+                16.005406
+            ],
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -89.353326,
+                            14.424133
+                        ],
+                        [
+                            -89.145535,
+                            14.678019
+                        ],
+                        [
+                            -89.22522,
+                            14.874286
+                        ],
+                        [
+                            -89.154811,
+                            15.066419
+                        ],
+                        [
+                            -88.68068,
+                            15.346247
+                        ],
+                        [
+                            -88.225023,
+                            15.727722
+                        ],
+                        [
+                            -88.121153,
+                            15.688655
+                        ],
+                        [
+                            -87.901813,
+                            15.864458
+                        ],
+                        [
+                            -87.61568,
+                            15.878799
+                        ],
+                        [
+                            -87.522921,
+                            15.797279
+                        ],
+                        [
+                            -87.367762,
+                            15.84694
+                        ],
+                        [
+                            -86.903191,
+                            15.756713
+                        ],
+                        [
+                            -86.440946,
+                            15.782835
+                        ],
+                        [
+                            -86.119234,
+                            15.893449
+                        ],
+                        [
+                            -86.001954,
+                            16.005406
+                        ],
+                        [
+                            -85.683317,
+                            15.953652
+                        ],
+                        [
+                            -85.444004,
+                            15.885749
+                        ],
+                        [
+                            -85.182444,
+                            15.909158
+                        ],
+                        [
+                            -84.983722,
+                            15.995923
+                        ],
+                        [
+                            -84.52698,
+                            15.857224
+                        ],
+                        [
+                            -84.368256,
+                            15.835158
+                        ],
+                        [
+                            -84.063055,
+                            15.648244
+                        ],
+                        [
+                            -83.773977,
+                            15.424072
+                        ],
+                        [
+                            -83.410381,
+                            15.270903
+                        ],
+                        [
+                            -83.147219,
+                            14.995829
+                        ],
+                        [
+                            -83.489989,
+                            15.016267
+                        ],
+                        [
+                            -83.628585,
+                            14.880074
+                        ],
+                        [
+                            -83.975721,
+                            14.749436
+                        ],
+                        [
+                            -84.228342,
+                            14.748764
+                        ],
+                        [
+                            -84.449336,
+                            14.621614
+                        ],
+                        [
+                            -84.649582,
+                            14.666805
+                        ],
+                        [
+                            -84.820037,
+                            14.819587
+                        ],
+                        [
+                            -84.924501,
+                            14.790493
+                        ],
+                        [
+                            -85.052787,
+                            14.551541
+                        ],
+                        [
+                            -85.148751,
+                            14.560197
+                        ],
+                        [
+                            -85.165365,
+                            14.35437
+                        ],
+                        [
+                            -85.514413,
+                            14.079012
+                        ],
+                        [
+                            -85.698665,
+                            13.960078
+                        ],
+                        [
+                            -85.801295,
+                            13.836055
+                        ],
+                        [
+                            -86.096264,
+                            14.038187
+                        ],
+                        [
+                            -86.312142,
+                            13.771356
+                        ],
+                        [
+                            -86.520708,
+                            13.778487
+                        ],
+                        [
+                            -86.755087,
+                            13.754845
+                        ],
+                        [
+                            -86.733822,
+                            13.263093
+                        ],
+                        [
+                            -86.880557,
+                            13.254204
+                        ],
+                        [
+                            -87.005769,
+                            13.025794
+                        ],
+                        [
+                            -87.316654,
+                            12.984686
+                        ],
+                        [
+                            -87.489409,
+                            13.297535
+                        ],
+                        [
+                            -87.793111,
+                            13.38448
+                        ],
+                        [
+                            -87.723503,
+                            13.78505
+                        ],
+                        [
+                            -87.859515,
+                            13.893312
+                        ],
+                        [
+                            -88.065343,
+                            13.964626
+                        ],
+                        [
+                            -88.503998,
+                            13.845486
+                        ],
+                        [
+                            -88.541231,
+                            13.980155
+                        ],
+                        [
+                            -88.843073,
+                            14.140507
+                        ],
+                        [
+                            -89.058512,
+                            14.340029
+                        ],
+                        [
+                            -89.353326,
+                            14.424133
+                        ]
+                    ]
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "scalerank": 1,
+                "featurecla": "Admin-0 country",
+                "LABELRANK": 5,
+                "SOVEREIGNT": "Nicaragua",
+                "SOV_A3": "NIC",
+                "ADM0_DIF": 0,
+                "LEVEL": 2,
+                "TYPE": "Sovereign country",
+                "ADMIN": "Nicaragua",
+                "ADM0_A3": "NIC",
+                "GEOU_DIF": 0,
+                "GEOUNIT": "Nicaragua",
+                "GU_A3": "NIC",
+                "SU_DIF": 0,
+                "SUBUNIT": "Nicaragua",
+                "SU_A3": "NIC",
+                "BRK_DIFF": 0,
+                "NAME": "Nicaragua",
+                "NAME_LONG": "Nicaragua",
+                "BRK_A3": "NIC",
+                "BRK_NAME": "Nicaragua",
+                "BRK_GROUP": null,
+                "ABBREV": "Nic.",
+                "POSTAL": "NI",
+                "FORMAL_EN": "Republic of Nicaragua",
+                "FORMAL_FR": null,
+                "NAME_CIAWF": "Nicaragua",
+                "NOTE_ADM0": null,
+                "NOTE_BRK": null,
+                "NAME_SORT": "Nicaragua",
+                "NAME_ALT": null,
+                "MAPCOLOR7": 1,
+                "MAPCOLOR8": 4,
+                "MAPCOLOR9": 1,
+                "MAPCOLOR13": 9,
+                "POP_EST": 6025951,
+                "POP_RANK": 13,
+                "GDP_MD_EST": 33550,
+                "POP_YEAR": 2017,
+                "LASTCENSUS": 2005,
+                "GDP_YEAR": 2016,
+                "ECONOMY": "6. Developing region",
+                "INCOME_GRP": "4. Lower middle income",
+                "WIKIPEDIA": -99,
+                "FIPS_10_": "NU",
+                "ISO_A2": "NI",
+                "ISO_A3": "NIC",
+                "ISO_A3_EH": "NIC",
+                "ISO_N3": "558",
+                "UN_A3": "558",
+                "WB_A2": "NI",
+                "WB_A3": "NIC",
+                "WOE_ID": 23424915,
+                "WOE_ID_EH": 23424915,
+                "WOE_NOTE": "Exact WOE match as country",
+                "ADM0_A3_IS": "NIC",
+                "ADM0_A3_US": "NIC",
+                "ADM0_A3_UN": -99,
+                "ADM0_A3_WB": -99,
+                "CONTINENT": "North America",
+                "REGION_UN": "Americas",
+                "SUBREGION": "Central America",
+                "REGION_WB": "Latin America & Caribbean",
+                "NAME_LEN": 9,
+                "LONG_LEN": 9,
+                "ABBREV_LEN": 4,
+                "TINY": -99,
+                "HOMEPART": 1,
+                "MIN_ZOOM": 0,
+                "MIN_LABEL": 4,
+                "MAX_LABEL": 9
+            },
+            "bbox": [
+                -87.668493,
+                10.726839,
+                -83.147219,
+                15.016267
+            ],
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -83.655612,
+                            10.938764
+                        ],
+                        [
+                            -83.895054,
+                            10.726839
+                        ],
+                        [
+                            -84.190179,
+                            10.79345
+                        ],
+                        [
+                            -84.355931,
+                            10.999226
+                        ],
+                        [
+                            -84.673069,
+                            11.082657
+                        ],
+                        [
+                            -84.903003,
+                            10.952303
+                        ],
+                        [
+                            -85.561852,
+                            11.217119
+                        ],
+                        [
+                            -85.71254,
+                            11.088445
+                        ],
+                        [
+                            -86.058488,
+                            11.403439
+                        ],
+                        [
+                            -86.52585,
+                            11.806877
+                        ],
+                        [
+                            -86.745992,
+                            12.143962
+                        ],
+                        [
+                            -87.167516,
+                            12.458258
+                        ],
+                        [
+                            -87.668493,
+                            12.90991
+                        ],
+                        [
+                            -87.557467,
+                            13.064552
+                        ],
+                        [
+                            -87.392386,
+                            12.914018
+                        ],
+                        [
+                            -87.316654,
+                            12.984686
+                        ],
+                        [
+                            -87.005769,
+                            13.025794
+                        ],
+                        [
+                            -86.880557,
+                            13.254204
+                        ],
+                        [
+                            -86.733822,
+                            13.263093
+                        ],
+                        [
+                            -86.755087,
+                            13.754845
+                        ],
+                        [
+                            -86.520708,
+                            13.778487
+                        ],
+                        [
+                            -86.312142,
+                            13.771356
+                        ],
+                        [
+                            -86.096264,
+                            14.038187
+                        ],
+                        [
+                            -85.801295,
+                            13.836055
+                        ],
+                        [
+                            -85.698665,
+                            13.960078
+                        ],
+                        [
+                            -85.514413,
+                            14.079012
+                        ],
+                        [
+                            -85.165365,
+                            14.35437
+                        ],
+                        [
+                            -85.148751,
+                            14.560197
+                        ],
+                        [
+                            -85.052787,
+                            14.551541
+                        ],
+                        [
+                            -84.924501,
+                            14.790493
+                        ],
+                        [
+                            -84.820037,
+                            14.819587
+                        ],
+                        [
+                            -84.649582,
+                            14.666805
+                        ],
+                        [
+                            -84.449336,
+                            14.621614
+                        ],
+                        [
+                            -84.228342,
+                            14.748764
+                        ],
+                        [
+                            -83.975721,
+                            14.749436
+                        ],
+                        [
+                            -83.628585,
+                            14.880074
+                        ],
+                        [
+                            -83.489989,
+                            15.016267
+                        ],
+                        [
+                            -83.147219,
+                            14.995829
+                        ],
+                        [
+                            -83.233234,
+                            14.899866
+                        ],
+                        [
+                            -83.284162,
+                            14.676624
+                        ],
+                        [
+                            -83.182126,
+                            14.310703
+                        ],
+                        [
+                            -83.4125,
+                            13.970078
+                        ],
+                        [
+                            -83.519832,
+                            13.567699
+                        ],
+                        [
+                            -83.552207,
+                            13.127054
+                        ],
+                        [
+                            -83.498515,
+                            12.869292
+                        ],
+                        [
+                            -83.473323,
+                            12.419087
+                        ],
+                        [
+                            -83.626104,
+                            12.32085
+                        ],
+                        [
+                            -83.719613,
+                            11.893124
+                        ],
+                        [
+                            -83.650858,
+                            11.629032
+                        ],
+                        [
+                            -83.85547,
+                            11.373311
+                        ],
+                        [
+                            -83.808936,
+                            11.103044
+                        ],
+                        [
+                            -83.655612,
+                            10.938764
+                        ]
+                    ]
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "scalerank": 1,
+                "featurecla": "Admin-0 country",
+                "LABELRANK": 2,
+                "SOVEREIGNT": "Kenya",
+                "SOV_A3": "KEN",
+                "ADM0_DIF": 0,
+                "LEVEL": 2,
+                "TYPE": "Sovereign country",
+                "ADMIN": "Kenya",
+                "ADM0_A3": "KEN",
+                "GEOU_DIF": 0,
+                "GEOUNIT": "Kenya",
+                "GU_A3": "KEN",
+                "SU_DIF": 0,
+                "SUBUNIT": "Kenya",
+                "SU_A3": "KEN",
+                "BRK_DIFF": 0,
+                "NAME": "Kenya",
+                "NAME_LONG": "Kenya",
+                "BRK_A3": "KEN",
+                "BRK_NAME": "Kenya",
+                "BRK_GROUP": null,
+                "ABBREV": "Ken.",
+                "POSTAL": "KE",
+                "FORMAL_EN": "Republic of Kenya",
+                "FORMAL_FR": null,
+                "NAME_CIAWF": "Kenya",
+                "NOTE_ADM0": null,
+                "NOTE_BRK": null,
+                "NAME_SORT": "Kenya",
+                "NAME_ALT": null,
+                "MAPCOLOR7": 5,
+                "MAPCOLOR8": 2,
+                "MAPCOLOR9": 7,
+                "MAPCOLOR13": 3,
+                "POP_EST": 47615739,
+                "POP_RANK": 15,
+                "GDP_MD_EST": 152700,
+                "POP_YEAR": 2017,
+                "LASTCENSUS": 2009,
+                "GDP_YEAR": 2016,
+                "ECONOMY": "5. Emerging region: G20",
+                "INCOME_GRP": "5. Low income",
+                "WIKIPEDIA": -99,
+                "FIPS_10_": "KE",
+                "ISO_A2": "KE",
+                "ISO_A3": "KEN",
+                "ISO_A3_EH": "KEN",
+                "ISO_N3": "404",
+                "UN_A3": "404",
+                "WB_A2": "KE",
+                "WB_A3": "KEN",
+                "WOE_ID": 23424863,
+                "WOE_ID_EH": 23424863,
+                "WOE_NOTE": "Exact WOE match as country",
+                "ADM0_A3_IS": "KEN",
+                "ADM0_A3_US": "KEN",
+                "ADM0_A3_UN": -99,
+                "ADM0_A3_WB": -99,
+                "CONTINENT": "Africa",
+                "REGION_UN": "Africa",
+                "SUBREGION": "Eastern Africa",
+                "REGION_WB": "Sub-Saharan Africa",
+                "NAME_LEN": 5,
+                "LONG_LEN": 5,
+                "ABBREV_LEN": 4,
+                "TINY": -99,
+                "HOMEPART": 1,
+                "MIN_ZOOM": 0,
+                "MIN_LABEL": 1.7,
+                "MAX_LABEL": 6.7
+            },
+            "bbox": [
+                33.893569,
+                -4.67677,
+                41.855083,
+                5.506
+            ],
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            35.298007,
+                            5.506
+                        ],
+                        [
+                            35.817448,
+                            5.338232
+                        ],
+                        [
+                            35.817448,
+                            4.776966
+                        ],
+                        [
+                            36.159079,
+                            4.447864
+                        ],
+                        [
+                            36.855093,
+                            4.447864
+                        ],
+                        [
+                            38.120915,
+                            3.598605
+                        ],
+                        [
+                            38.43697,
+                            3.58851
+                        ],
+                        [
+                            38.67114,
+                            3.61607
+                        ],
+                        [
+                            38.89251,
+                            3.50074
+                        ],
+                        [
+                            39.559384,
+                            3.42206
+                        ],
+                        [
+                            39.85494,
+                            3.83879
+                        ],
+                        [
+                            40.76848,
+                            4.25702
+                        ],
+                        [
+                            41.1718,
+                            3.91909
+                        ],
+                        [
+                            41.855083,
+                            3.918912
+                        ],
+                        [
+                            40.98105,
+                            2.78452
+                        ],
+                        [
+                            40.993,
+                            -0.85829
+                        ],
+                        [
+                            41.58513,
+                            -1.68325
+                        ],
+                        [
+                            40.88477,
+                            -2.08255
+                        ],
+                        [
+                            40.63785,
+                            -2.49979
+                        ],
+                        [
+                            40.26304,
+                            -2.57309
+                        ],
+                        [
+                            40.12119,
+                            -3.27768
+                        ],
+                        [
+                            39.80006,
+                            -3.68116
+                        ],
+                        [
+                            39.60489,
+                            -4.34653
+                        ],
+                        [
+                            39.20222,
+                            -4.67677
+                        ],
+                        [
+                            37.7669,
+                            -3.67712
+                        ],
+                        [
+                            37.69869,
+                            -3.09699
+                        ],
+                        [
+                            34.07262,
+                            -1.05982
+                        ],
+                        [
+                            33.903711,
+                            -0.95
+                        ],
+                        [
+                            33.893569,
+                            0.109814
+                        ],
+                        [
+                            34.18,
+                            0.515
+                        ],
+                        [
+                            34.6721,
+                            1.17694
+                        ],
+                        [
+                            35.03599,
+                            1.90584
+                        ],
+                        [
+                            34.59607,
+                            3.05374
+                        ],
+                        [
+                            34.47913,
+                            3.5556
+                        ],
+                        [
+                            34.005,
+                            4.249885
+                        ],
+                        [
+                            34.620196,
+                            4.847123
+                        ],
+                        [
+                            35.298007,
+                            5.506
+                        ]
+                    ]
+                ]
+            }
+        },
+
+        {
+            "type": "Feature",
+            "properties": {
+                "scalerank": 1,
+                "featurecla": "Admin-0 country",
+                "LABELRANK": 3,
+                "SOVEREIGNT": "Uganda",
+                "SOV_A3": "UGA",
+                "ADM0_DIF": 0,
+                "LEVEL": 2,
+                "TYPE": "Sovereign country",
+                "ADMIN": "Uganda",
+                "ADM0_A3": "UGA",
+                "GEOU_DIF": 0,
+                "GEOUNIT": "Uganda",
+                "GU_A3": "UGA",
+                "SU_DIF": 0,
+                "SUBUNIT": "Uganda",
+                "SU_A3": "UGA",
+                "BRK_DIFF": 0,
+                "NAME": "Uganda",
+                "NAME_LONG": "Uganda",
+                "BRK_A3": "UGA",
+                "BRK_NAME": "Uganda",
+                "BRK_GROUP": null,
+                "ABBREV": "Uga.",
+                "POSTAL": "UG",
+                "FORMAL_EN": "Republic of Uganda",
+                "FORMAL_FR": null,
+                "NAME_CIAWF": "Uganda",
+                "NOTE_ADM0": null,
+                "NOTE_BRK": null,
+                "NAME_SORT": "Uganda",
+                "NAME_ALT": null,
+                "MAPCOLOR7": 6,
+                "MAPCOLOR8": 3,
+                "MAPCOLOR9": 6,
+                "MAPCOLOR13": 4,
+                "POP_EST": 39570125,
+                "POP_RANK": 15,
+                "GDP_MD_EST": 84930,
+                "POP_YEAR": 2017,
+                "LASTCENSUS": 2002,
+                "GDP_YEAR": 2016,
+                "ECONOMY": "7. Least developed region",
+                "INCOME_GRP": "5. Low income",
+                "WIKIPEDIA": -99,
+                "FIPS_10_": "UG",
+                "ISO_A2": "UG",
+                "ISO_A3": "UGA",
+                "ISO_A3_EH": "UGA",
+                "ISO_N3": "800",
+                "UN_A3": "800",
+                "WB_A2": "UG",
+                "WB_A3": "UGA",
+                "WOE_ID": 23424974,
+                "WOE_ID_EH": 23424974,
+                "WOE_NOTE": "Exact WOE match as country",
+                "ADM0_A3_IS": "UGA",
+                "ADM0_A3_US": "UGA",
+                "ADM0_A3_UN": -99,
+                "ADM0_A3_WB": -99,
+                "CONTINENT": "Africa",
+                "REGION_UN": "Africa",
+                "SUBREGION": "Eastern Africa",
+                "REGION_WB": "Sub-Saharan Africa",
+                "NAME_LEN": 6,
+                "LONG_LEN": 6,
+                "ABBREV_LEN": 4,
+                "TINY": -99,
+                "HOMEPART": 1,
+                "MIN_ZOOM": 0,
+                "MIN_LABEL": 3,
+                "MAX_LABEL": 8
+            },
+            "bbox": [
+                29.579466,
+                -1.443322,
+                35.03599,
+                4.249885
+            ],
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            29.579466,
+                            -1.341313
+                        ],
+                        [
+                            29.587838,
+                            -0.587406
+                        ],
+                        [
+                            29.819503,
+                            -0.20531
+                        ],
+                        [
+                            29.875779,
+                            0.59738
+                        ],
+                        [
+                            30.086154,
+                            1.062313
+                        ],
+                        [
+                            30.468508,
+                            1.583805
+                        ],
+                        [
+                            30.85267,
+                            1.849396
+                        ],
+                        [
+                            31.174149,
+                            2.204465
+                        ],
+                        [
+                            30.773347,
+                            2.339883
+                        ],
+                        [
+                            30.83386,
+                            3.509166
+                        ],
+                        [
+                            30.833852,
+                            3.509172
+                        ],
+                        [
+                            31.24556,
+                            3.7819
+                        ],
+                        [
+                            31.88145,
+                            3.55827
+                        ],
+                        [
+                            32.68642,
+                            3.79232
+                        ],
+                        [
+                            33.39,
+                            3.79
+                        ],
+                        [
+                            34.005,
+                            4.249885
+                        ],
+                        [
+                            34.47913,
+                            3.5556
+                        ],
+                        [
+                            34.59607,
+                            3.05374
+                        ],
+                        [
+                            35.03599,
+                            1.90584
+                        ],
+                        [
+                            34.6721,
+                            1.17694
+                        ],
+                        [
+                            34.18,
+                            0.515
+                        ],
+                        [
+                            33.893569,
+                            0.109814
+                        ],
+                        [
+                            33.903711,
+                            -0.95
+                        ],
+                        [
+                            31.86617,
+                            -1.02736
+                        ],
+                        [
+                            30.76986,
+                            -1.01455
+                        ],
+                        [
+                            30.419105,
+                            -1.134659
+                        ],
+                        [
+                            29.821519,
+                            -1.443322
+                        ],
+                        [
+                            29.579466,
+                            -1.341313
+                        ]
+                    ]
+                ]
+            }
+        }
+    ],
+    "bbox": [
+        -180,
+        -90,
+        180,
+        83.64513
+    ]
+}
